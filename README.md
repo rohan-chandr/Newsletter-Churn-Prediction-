@@ -7,7 +7,7 @@
 ## The Data:
 The data set consists of roughly 700,000 samples which were collected from the newsletter subscribers. The information collected is as follows:
 * The user’s unique ID along with their domain and how their engagement status with the newsletter has changed
-* If their engagement status has changed to opt out then the opt out time and date is also collected.
+* If their engagement status has changed to opt out then the opt out time and date is also collected
 * The date they signed up for the newsletter and lifetime statistics such as their number of opens and clicks as well as their last open and last click time and date and their lifetime messages
 * Some personal information which includes their geolocation, their prefered device, their name, and finally, their reading preference list
 * Our Y column(target) is ‘Engagement’
