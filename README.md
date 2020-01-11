@@ -24,7 +24,7 @@ The data set consists of roughly 700,000 samples which were collected from the n
     * Subscribed Accuracy: 67.6%
 
 For detailed results,along with a rough explanation of each algorithm and the steps taken to implement, check out the following:
-![Alt Text](https://github.com/rohan-chandr/Newsletter-Churn-Prediction-/blob/master/Rohan-Churn_prediction.pdf)
+https://github.com/rohan-chandr/Newsletter-Churn-Prediction-/blob/master/Rohan-Churn_prediction.pdf
 
 ## How this could impact Businesses:
 Actively prevent customer tunrover by intervening with at-risk customers(potentially saving companies millions)
