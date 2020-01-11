@@ -11,6 +11,7 @@ The data set consists of roughly 700,000 samples which were collected from the n
 * The date they signed up for the newsletter and lifetime statistics such as their number of opens and clicks as well as their last open and last click time and date and their lifetime messages
 * Some personal information which includes their geolocation, their prefered device, their name, and finally, their reading preference list
 * Our Y column(target) is ‘Engagement’
+* The dataset can be downloaded at https://s3.amazonaws.com/orim-misc-data/assessment/subscribers.csv
 ![Alt Text](https://github.com/rohan-chandr/Newsletter-Churn-Prediction-/blob/master/data.jpg)
 
 ## The Solution:
