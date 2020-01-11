@@ -30,7 +30,7 @@ For detailed results,along with a rough explanation of each algorithm and the st
 https://github.com/rohan-chandr/Newsletter-Churn-Prediction-/blob/master/Rohan-Churn_prediction.pdf
 
 ## How this could impact Businesses:
-Actively prevent customer tunrover by intervening with at-risk customers(potentially saving companies millions, depending on number of subscribers)
+Actively prevent customer turnover by intervening with at-risk customers(potentially saving companies millions, depending on number of subscribers)
 
 
 
