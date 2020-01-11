@@ -2,7 +2,7 @@
 ## The Problem:
 * We are given a company newsletter service dataset, containing various information on the usage details and other information about each user
 * Given this dataset, we must build a predictive model predicting whether people will opt out of the newsletter
-* The predictive model(s) must have as high as an accuracy as possible, given the dataset and it’s limitations
+* The predictive model(s) must have as high an accuracy as possible, given the dataset and it’s limitations
 
 ## The Data:
 The data set consists of roughly 700,000 samples which were collected from the newsletter subscribers. The information collected is as follows:
