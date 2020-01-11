@@ -13,3 +13,21 @@ The data set consists of roughly 700,000 samples which were collected from the n
 * Our Y column(target) is ‘Engagement’
 
 ## The Results:
+* Decision Tree:
+    * Opt-out Accuracy: 60.8%
+    * Subscribed Accuracy: 67.6%
+* SVM:
+    * Opt-out Accuracy: 60.8%
+    * Subscribed Accuracy: 67.6%
+* Random Forest:
+    * Opt-out Accuracy: 60.8%
+    * Subscribed Accuracy: 67.6%
+
+For detailed results,along with a rough explanation of each algorithm and the steps taken to implement, check out the following:
+![Alt Text](https://github.com/rohan-chandr/Newsletter-Churn-Prediction-/blob/master/Rohan-Churn_prediction.pdf)
+
+## How this could impact Businesses:
+Actively prevent customer tunrover by intervening with at-risk customers(potentially saving companies millions)
+
+
+
