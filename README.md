@@ -12,6 +12,9 @@ The data set consists of roughly 700,000 samples which were collected from the n
 * Some personal information which includes their geolocation, their prefered device, their name, and finally, their reading preference list
 * Our Y column(target) is ‘Engagement’
 
+## The Solution:
+https://github.com/rohan-chandr/Newsletter-Churn-Prediction-/blob/master/Newsletter-Churn.ipynb
+
 ## The Results:
 * Decision Tree:
     * Opt-out Accuracy: 60.8%
