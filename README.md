@@ -20,11 +20,11 @@ https://github.com/rohan-chandr/Newsletter-Churn-Prediction-/blob/master/Newslet
     * Opt-out Accuracy: 60.8%
     * Subscribed Accuracy: 67.6%
 * SVM:
-    * Opt-out Accuracy: 60.8%
-    * Subscribed Accuracy: 67.6%
+    * Opt-out Accuracy: 77.3%
+    * Subscribed Accuracy: 85.1%
 * Random Forest:
-    * Opt-out Accuracy: 60.8%
-    * Subscribed Accuracy: 67.6%
+    * Opt-out Accuracy: 96.5%
+    * Subscribed Accuracy: 80%
 
 For detailed results,along with a rough explanation of each algorithm and the steps taken to implement, check out the following:
 https://github.com/rohan-chandr/Newsletter-Churn-Prediction-/blob/master/Rohan-Churn_prediction.pdf
